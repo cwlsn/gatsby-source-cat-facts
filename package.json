@@ -2,13 +2,23 @@
   "name": "gatsby-source-cat-facts",
   "description": "Gatsby source plugin to add Cat Facts to your app.",
   "version": "0.0.1",
-  "author": "Connor Wilson <me@cwlsn.com> (cwlsn.com)",
+  "author": "Connor Wilson <me@cwlsn.com> (https://cwlsn.com)",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
     "@babel/runtime": "^7.1.5",
     "node-fetch": "^2.2.1"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-source",
+    "gatsby-plugin",
+    "cat facts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cwlsn/gatsby-source-cat-facts.git"
   },
   "devDependencies": {
     "@babel/cli": "^7.1.5",
