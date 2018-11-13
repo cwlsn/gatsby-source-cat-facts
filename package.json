@@ -28,7 +28,7 @@
   },
   "license": "MIT",
   "scripts": {
-    "build": "babel src --out-dir .",
+    "build": "babel ./src --out-dir ./",
     "watch": "babel -w src --out-dir .",
     "prepare": "cross-env NODE_ENV=production npm run build"
   },
